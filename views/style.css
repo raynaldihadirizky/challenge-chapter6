@@ -1,0 +1,17 @@
+.card {
+    position: relative;
+    top: 2vw;
+    left: 33%;
+    width: 500px;
+    height: 230px;
+}
+
+.card > form {
+    width: 90%
+}
+
+form > a > button.back {
+    display: inline-block;
+    border: 1px solid gray;
+    width: 65px;
+}
